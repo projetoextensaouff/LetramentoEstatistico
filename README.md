@@ -4,7 +4,7 @@ Este repositório faz parte de um projeto de extensão da Universidade Federal F
 ---
 
 ## Sobre o projeto
-Aqui você encontrará atividaedds,jogos e materiais educativos que estimulam o interesse pela Estatística e permitem que estudantes aprendam de forma **ativa e interativa**. Os conteúdos podem ser aplicados em sala de aula, oficinas pedagógicas ou projetos complementares.
+Aqui você encontrará atividades,jogos e materiais educativos que estimulam o interesse pela Estatística e permitem que estudantes aprendam de forma **ativa e interativa**. Os conteúdos podem ser aplicados em sala de aula, oficinas pedagógicas ou projetos complementares.
 
 > Os detalhes de cada atividade estão disponíveis nos documentos anexados neste repositório.
 
